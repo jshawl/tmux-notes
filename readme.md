@@ -18,3 +18,9 @@ session with `tmux attach`.
 Create a new window with `<C-b>c`. Switch between them with `<C-b>n`.
 
 Windows feel a bit like vim’s tabs.
+
+### Panes
+
+Create a vertical split with `<C-b>%`.
+
+Create a horizontal split with `<C-b>%`.
